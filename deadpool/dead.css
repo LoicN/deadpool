@@ -1,0 +1,97 @@
+h1 {
+    margin-left: 10%;
+    padding-top: 20%;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-left: 10%;
+    margin-right: 50%;
+    float: left;
+}
+
+.bouton2 {
+    padding: 10px 30px;
+    background: blue;
+    color: white;
+}
+
+.bouton2:hover {
+    background: red;
+}
+
+.bouton3 {
+    padding: 10px 30px;
+    background: blue;
+    color: white;
+}
+
+.bouton3:hover {
+    background: red;
+}
+
+.bouton4 {
+    padding: 10px 30px;
+    background: blue;
+    color: white;
+}
+
+.bouton4:hover {
+    background: red;
+}
+
+.bouton5 {
+    padding: 10px 30px;
+    background: blue;
+    color: white;
+}
+
+.bouton5:hover {
+    background: red;
+}
+
+.bouton1 {
+    padding: 10px 30px;
+    background: blue;
+    color: white;
+    margin-left: 30%;
+}
+
+.bouton1:hover {
+    background: red;
+}
+
+.bouton6 {
+    padding: 10px 30px;
+    background: blue;
+    color: white;
+    margin-left: 10%;
+}
+
+.bouton6:hover {
+    background: red;
+}
+
+.main {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.body {
+    color: rgb(94, 92, 92);
+    background-color: rgb(85, 83, 83);
+    background-attachment: fixed;
+    background: no-repeat;
+    opacity: 0, 1
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    object-fit: contain;
+}
+
+.b {
+    opacity: 0.2
+}
